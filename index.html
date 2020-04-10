@@ -109,11 +109,13 @@
   <script>
     // Mapbox access token
     mapboxgl.accessToken = 'pk.eyJ1Ijoic3Bpa2Vyb290IiwiYSI6ImNrOGoxYXBkZTAydjEzZW1xNmNwMnB0aGgifQ.9aNdlgEoLWFufbanS404BA';
+
     // Creates a variable called "map" to house the map, calls custom style from Mapbox account
     var map = new mapboxgl.Map ({
           container: 'map',
           style:'mapbox://styles/spikeroot/ck8t24agq03pj1iqkhvmg3qs5'
         });
+
     //Activates map function on map load.
     map.on('load', function() {
 
