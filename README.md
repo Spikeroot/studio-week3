@@ -1,5 +1,5 @@
 # Week 3 Studio
-This repository contains my completed week 3 studio assignment with 3 outputs. These outputs document further experimentation with Mapbox GL JS and can be viewed on the [project page](URL incoming). All data used is included in this repository in GeoJSON format.
+This repository contains my completed week 3 studio assignment with 3 outputs. These outputs document further experimentation with Mapbox GL JS and can be viewed on the [project page](https://spikeroot.github.io/studio-week3_TB/). All data used is included in this repository in GeoJSON format.
 
 ## Output 1
 This page contains a choropleth map displaying population density across the US, created following a [Mapbox tutorial](https://docs.mapbox.com/help/tutorials/choropleth-studio-gl-pt-1/).  Interactive features were added so that the density values of states are displayed as they are moused over. A custom Mapbox style was used to symbolize the data. The CSS style for the webpage was designed to match this output.
